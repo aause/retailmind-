@@ -1,0 +1,61 @@
+date,product,category,quantity,unit_price,total_sales,store
+2024-01-03,Espresso,Coffee,42,2.50,105.00,Store A
+2024-01-03,Latte,Coffee,38,4.50,171.00,Store A
+2024-01-03,Cappuccino,Coffee,29,4.00,116.00,Store B
+2024-01-04,Croissant,Bakery,55,2.80,154.00,Store A
+2024-01-04,Espresso,Coffee,61,2.50,152.50,Store B
+2024-01-05,Matcha Latte,Specialty,18,5.50,99.00,Store A
+2024-01-05,Americano,Coffee,44,3.00,132.00,Store B
+2024-01-06,Latte,Coffee,52,4.50,234.00,Store A
+2024-01-07,Cold Brew,Coffee,33,4.00,132.00,Store B
+2024-01-08,Mocha,Coffee,27,4.75,128.25,Store A
+2024-01-09,Flat White,Coffee,41,4.25,174.25,Store B
+2024-01-10,Blueberry Muffin,Bakery,63,2.50,157.50,Store A
+2024-01-11,Espresso,Coffee,58,2.50,145.00,Store A
+2024-01-12,Chai Latte,Specialty,22,5.00,110.00,Store B
+2024-01-15,Latte,Coffee,67,4.50,301.50,Store A
+2024-01-16,Cappuccino,Coffee,48,4.00,192.00,Store B
+2024-01-17,Cold Brew,Coffee,39,4.00,156.00,Store A
+2024-01-18,Americano,Coffee,53,3.00,159.00,Store B
+2024-01-19,Croissant,Bakery,72,2.80,201.60,Store A
+2024-01-22,Espresso,Coffee,44,2.50,110.00,Store B
+2024-01-23,Matcha Latte,Specialty,25,5.50,137.50,Store A
+2024-01-24,Flat White,Coffee,36,4.25,153.00,Store B
+2024-01-25,Mocha,Coffee,31,4.75,147.25,Store A
+2024-01-26,Chai Latte,Specialty,19,5.00,95.00,Store B
+2024-01-29,Latte,Coffee,55,4.50,247.50,Store A
+2024-01-30,Cold Brew,Coffee,42,4.00,168.00,Store B
+2024-02-01,Espresso,Coffee,48,2.50,120.00,Store A
+2024-02-02,Cappuccino,Coffee,37,4.00,148.00,Store B
+2024-02-05,Americano,Coffee,61,3.00,183.00,Store A
+2024-02-06,Matcha Latte,Specialty,28,5.50,154.00,Store B
+2024-02-07,Croissant,Bakery,80,2.80,224.00,Store A
+2024-02-08,Latte,Coffee,74,4.50,333.00,Store B
+2024-02-09,Flat White,Coffee,43,4.25,182.75,Store A
+2024-02-12,Mocha,Coffee,34,4.75,161.50,Store B
+2024-02-13,Cold Brew,Coffee,47,4.00,188.00,Store A
+2024-02-14,Espresso,Coffee,66,2.50,165.00,Store B
+2024-02-15,Chai Latte,Specialty,31,5.00,155.00,Store A
+2024-02-16,Blueberry Muffin,Bakery,58,2.50,145.00,Store B
+2024-02-19,Latte,Coffee,69,4.50,310.50,Store A
+2024-02-20,Cappuccino,Coffee,52,4.00,208.00,Store B
+2024-02-21,Americano,Coffee,44,3.00,132.00,Store A
+2024-02-22,Matcha Latte,Specialty,27,5.50,148.50,Store B
+2024-02-23,Cold Brew,Coffee,51,4.00,204.00,Store A
+2024-02-26,Espresso,Coffee,58,2.50,145.00,Store B
+2024-02-27,Flat White,Coffee,39,4.25,165.75,Store A
+2024-02-28,Mocha,Coffee,28,4.75,133.00,Store B
+2024-03-01,Latte,Coffee,77,4.50,346.50,Store A
+2024-03-04,Croissant,Bakery,91,2.80,254.80,Store B
+2024-03-05,Espresso,Coffee,63,2.50,157.50,Store A
+2024-03-06,Chai Latte,Specialty,36,5.00,180.00,Store B
+2024-03-07,Cold Brew,Coffee,55,4.00,220.00,Store A
+2024-03-08,Cappuccino,Coffee,48,4.00,192.00,Store B
+2024-03-11,Americano,Coffee,59,3.00,177.00,Store A
+2024-03-12,Matcha Latte,Specialty,33,5.50,181.50,Store B
+2024-03-13,Flat White,Coffee,46,4.25,195.50,Store A
+2024-03-14,Latte,Coffee,82,4.50,369.00,Store B
+2024-03-15,Blueberry Muffin,Bakery,75,2.50,187.50,Store A
+2024-03-18,Mocha,Coffee,41,4.75,194.75,Store B
+2024-03-19,Espresso,Coffee,70,2.50,175.00,Store A
+2024-03-20,Cold Brew,Coffee,60,4.00,240.00,Store B
