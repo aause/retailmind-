@@ -103,7 +103,7 @@ class CleaningAgent:
         # Identify key columns heuristically
         sales_col = next((c for c in df.columns if any(k in c for k in ["sales", "revenue", "amount", "total", "price"])), None)
         qty_col   = next((c for c in df.columns if any(k in c for k in ["qty", "quantity", "units", "count"])), None)
-        prod_col  = next((c for c in df.columns if any(k in c for k in ["product", "item", "name", "sku", "category", "type"])), None)
+        prod_col  = next((c for c in df.columns if any(k in c for k in ["product", "item", "sku", "category", "type"])), None)
 
         return {
             "ok": True,
